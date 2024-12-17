@@ -7,8 +7,8 @@ __pycache__/
 venv/
 
 # Data files
-*.csv
-*.xlsx
-*.xls
+# *.csv
+# *.xlsx
+# *.xls
 *.db
 *.sqlite
